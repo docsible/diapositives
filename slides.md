@@ -6,7 +6,7 @@ class: text-center
 transition: slide-up
 exportFilename: docsible-pdf-export
 favicon: 
-background: background.jpg
+background: diapositives/background.jpg
 download: true
 drawings:
   persist: true
