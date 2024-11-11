@@ -7,11 +7,9 @@ transition: slide-up
 exportFilename: docsible-pdf-export
 favicon: 
 background: background.jpg
-info: false
 download: true
 drawings:
   persist: true
-transition: none
 titleTemplate: "%s"
 ---
 
