@@ -35,8 +35,10 @@ transition: slide-up
 - <span v-mark.orange="3">Documentation manuelle</span> : Un processus fastidieux, sujet aux erreurs et difficilement scalable avec les besoins croissants de conformité et de standardisation.
 </v-click>
 
+<v-click>
 
 ## Pourquoi Docsible ?
+</v-click>
 <v-click>
 
 - <span v-mark.orange="4">Évolution rapide</span> des environnements Ansible, rendant la documentation difficile à suivre.
