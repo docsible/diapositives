@@ -141,3 +141,16 @@ transition: slide-left
 # Merci de votre attention !
 
 <v-click>Des questions ?</v-click>
+<div class="mt-8">
+</div>
+<v-click>
+
+
+Url présentation
+
+</v-click>
+<v-click>
+
+<img src="https://raw.githubusercontent.com/docsible/diapositives/refs/heads/main/image.png" />
+
+</v-click>
