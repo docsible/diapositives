@@ -15,7 +15,7 @@ titleTemplate: "%s"
 
 # **Docsible**
 
-*Automatisez la documentation de vos rôles Ansible pour des processus DevOps optimisés et sans effort manuel.*
+*Automatisez la documentation de vos rôles Ansible pour optimiser vos processus DevOps sans effort manuel.*
 
 ---
 transition: slide-up
@@ -32,7 +32,7 @@ transition: slide-up
 </v-click>
 <v-click>
 
-- <span v-mark.orange="3">Documentation manuelle</span> : Un processus fastidieux, sujet aux erreurs et difficilement scalable avec les besoins croissants de conformité et de standardisation.
+- <span v-mark.orange="3">Documentation manuelle</span> : Un processus fastidieux, sujet aux erreurs, difficilement scalable avec les besoins croissants de conformité et de standardisation.
 </v-click>
 
 <v-click>
@@ -63,7 +63,7 @@ level: 2
 # Docsible : Une solution clé pour le DevOps
 <v-click>
 
-- Outil <span v-mark.orange="1">open-source</span> conçu pour automatiser la génération de documentation directement depuis les rôles et collections Ansible.
+- Un outil <span v-mark.orange="1">open-source</span> conçu pour automatiser la génération de documentation directement depuis les rôles et collections Ansible.
 </v-click>
 <v-click>
 
@@ -71,7 +71,7 @@ level: 2
 </v-click>
 <v-click>
 
-- Documentation <span v-mark.orange="3">intégrée au pipeline CI/CD</span>, toujours à jour, et prête à être consultée par les équipes DevOps et d’intégration.
+- Documentation <span v-mark.orange="3">intégrée au pipeline CI/CD</span>, toujours à jour, prête à être consultée par les équipes DevOps et d’intégration.
 </v-click>
 
 ---
@@ -89,7 +89,7 @@ transition: fade-out
 </v-click>
 <v-click>
 
-3. <span v-mark.orange="3">Génération automatique de README</span> : Format structuré et lisible, toujours aligné avec l’état actuel du code.
+3. <span v-mark.orange="3">Génération automatique du README</span> : Format structuré et lisible, toujours aligné avec l’état actuel du code.
 </v-click>
 <v-click>
 
@@ -130,7 +130,7 @@ flowchart TD
 transition: slide-left
 ---
 
-# Demo github
+# Demo github actions (CI/CD)
 
 - Rôle : [docsible/thermo-core](https://github.com/docsible/thermo-core)
 
@@ -146,7 +146,7 @@ transition: slide-left
 <v-click>
 
 
-Url présentation
+URL de la présentation
 
 </v-click>
 <v-click>
