@@ -41,19 +41,19 @@ transition: slide-up
 </v-click>
 <v-click>
 
-- <span v-mark.orange="4">Évolution rapide</span> des environnements Ansible, rendant la documentation difficile à suivre.
+- <span v-mark.orange="5">Évolution rapide</span> des environnements Ansible, rendant la documentation difficile à suivre.
 </v-click>
 <v-click>
 
-- Besoin d’une documentation <span v-mark.orange="5">à jour en continu</span> pour faciliter la collaboration et l’intégration.
+- Besoin d’une documentation <span v-mark.orange="6">à jour en continu</span> pour faciliter la collaboration et l’intégration.
 </v-click>
 <v-click>
 
-- Automatisation pour <span v-mark.orange="6">gagner du temps</span> en éliminant les tâches répétitives et manuelles.
+- Automatisation pour <span v-mark.orange="7">gagner du temps</span> en éliminant les tâches répétitives et manuelles.
 </v-click>
 <v-click>
 
-- <span v-mark.orange="7">**Alignement avec le code**</span> : Une documentation toujours synchronisée avec le code source, réduisant les risques d’incohérence et d'erreurs de configuration.
+- <span v-mark.orange="8">**Alignement avec le code**</span> : Une documentation toujours synchronisée avec le code source, réduisant les risques d’incohérence et d'erreurs de configuration.
 </v-click>
 ---
 transition: slide-up
