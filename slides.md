@@ -55,6 +55,26 @@ transition: slide-up
 
 - <span v-mark.orange="8">**Alignement avec le code**</span> : Une documentation toujours synchronisée avec le code source, réduisant les risques d’incohérence et d'erreurs de configuration.
 </v-click>
+
+
+---
+---
+
+# Temps estimé pour la documentation manuelle
+
+#### Développeur débutant
+- **Rôle facile** : 1-2 heures
+- **Rôle moyen** : 3-6 heures
+- **Rôle complexe** : 6-10 heures
+
+#### Développeur expérimenté
+- **Rôle facile** : 0.5-1 heure
+- **Rôle moyen** : 1-3 heures
+- **Rôle complexe** : 3-5 heures
+
+*Les temps varient selon la familiarité avec Ansible et la complexité des tâches.*
+
+
 ---
 transition: slide-up
 level: 2
@@ -140,17 +160,13 @@ transition: slide-left
 
 # Merci de votre attention !
 
-<v-click>Des questions ?</v-click>
+Des questions ?
 <div class="mt-8">
 </div>
-<v-click>
 
+Repo github:
+[docsible/docsible](https://github.com/docsible/docsible)
 
 URL de la présentation
 
-</v-click>
-<v-click>
-
 <img width="300px" height="300px" src="https://raw.githubusercontent.com/docsible/diapositives/refs/heads/main/image.png" />
-
-</v-click>
