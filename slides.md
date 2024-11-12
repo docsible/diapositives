@@ -151,6 +151,6 @@ Url présentation
 </v-click>
 <v-click>
 
-<img src="https://raw.githubusercontent.com/docsible/diapositives/refs/heads/main/image.png" />
+<img width="300px" height="300px" src="https://raw.githubusercontent.com/docsible/diapositives/refs/heads/main/image.png" />
 
 </v-click>
